@@ -1,16 +1,16 @@
 # Challenge 1: Horiseon
 
-## Purpose
+## Website Purpose
 A digital marketing website offering SEO and other services.
 
-## Built With
-* HTML
-* CSS
+## Page Built With
+* Semantic HTML 5
+* Basic CSS 3
 
-## Website
+## Website URL
 https://anillag.github.io/Challenge-1-Horiseon/
 
-## Contribution
+## Contributors
 Made with ❤️ by Joe Gallina
 
 ### ©️2019 Horiseon Social Solution Services, Inc.
