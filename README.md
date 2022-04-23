@@ -7,6 +7,12 @@ A digital marketing website offering SEO and other services.
 * Semantic HTML 5
 * Basic CSS 3
 
+## Usage
+
+Simple website navigation is available at the top of the page.
+
+![Screenshot of Horiseon webpage](assets/images/Challenge-1-Horiseon_screenshot.png)
+
 ## Website URL
 https://anillag.github.io/Challenge-1-Horiseon/
 
